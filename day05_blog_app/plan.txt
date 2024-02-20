@@ -1,0 +1,8 @@
+Functionality
+    - Hard coded data
+    - Landing page
+        - URL /
+    - Page for all blog posts -> (Summary)
+        - URL /blog/all-posts
+    - Page for single blog post -> (Detailed)
+        - URL /blog/<postId> or slug /blog/first-post
